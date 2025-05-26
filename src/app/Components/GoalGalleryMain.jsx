@@ -133,7 +133,7 @@ const goalsData = [
       "Goal Against": "Ferencváros",
       "Match Info": "Hungarian NB I League"
     },
-    "Video Link": "https://youtu.be/tn9oo25vYwo?si=oXzPqdvphTX3zF_g"
+    "Video Link": "https://youtu.be/4OXqokUqxcM?si=2jEfxviMph9TNjn0"
   },
   {
     "Year": 2020,
